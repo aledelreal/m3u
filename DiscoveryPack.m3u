@@ -1,0 +1,26 @@
+#EXTINF:-1,Discovery ID
+rtsp://173.193.20.150:1935/mtv/105
+#EXTINF:-1,Discovery Turbo
+rtsp://173.193.20.150:1935/mtv/92
+#EXTINF:-1,DISCOVERY TURBO HD
+rtsp://173.193.20.150:1935/mtv/92hd
+#EXTINF:-1,Discovery Science
+rtsp://173.193.20.136:1935/mtv/130
+#EXTINF:-1,Discovery Science HD
+rtsp://173.193.20.136:1935/mtv/130hd
+#EXTINF:-1,DISC. SCIENCE
+http://212.33.237.113:8047
+#EXTINF:-1,Discovery HD Theater
+rtsp://173.193.20.136:1935/mtv/discohd
+#EXTINF:0 tvg-name="Discovery Channel" tvg-language="English" tvg-country="US" tvg-id="Discovery Channel" tvg-logo="http://images2.fanpop.com/image/photos/12200000/Discovery-Channel-logos-discovery-channel-12245119-300-300.jpg" group-title="Top10",Discovery Channel (Top10) (US) (English)
+http://167.114.102.27/live/NUYr1Cj5jluxXmQ7XxyXtg/1455736192/a490ae75a3ec2acf16c9f592e889eb4c.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+#EXTINF:0 tvg-name="Discovery Channel" tvg-language="English" tvg-country="US" tvg-id="Discovery Channel" tvg-logo="http://images2.fanpop.com/image/photos/12200000/Discovery-Channel-logos-discovery-channel-12245119-300-300.jpg" group-title="Documentary",Discovery Channel (Documentary) (US) (English)
+http://167.114.102.27/live/qdugJ5WUWnzO_6PoZnHnsA/1455735520/a490ae75a3ec2acf16c9f592e889eb4c.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+#EXTINF:0 tvg-name="Discovery History" tvg-language="English" tvg-country="US" tvg-id="Discovery History" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Discovery_History_logo.png" group-title="Documentary",Discovery History (Documentary) (US) (English)
+http://top-iptv.zapto.org:8000/live/Aria/Aria/562.m3u8
+#EXTINF:0 tvg-name="Discovery Theater HD" tvg-language="English" tvg-country="US" tvg-id="Discovery Theater HD" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRimrEagvlJvrJ_E3VYqzIcS6ReYaHGHZt1hEyKEyfGwslP3VaFeIZIcA" group-title="Documentary",Discovery Theater HD (Documentary) (US) (English)
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-name="Discovery" tvg-language="English" tvg-country="IN" tvg-id="Discovery" tvg-logo="http://images2.fanpop.com/image/photos/12200000/Discovery-Channel-logos-discovery-channel-12245119-300-300.jpg" group-title="Documentary",Discovery (Documentary) (IN) (English)
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/Discovery2500.m3u8
+#EXTINF:-1,ID HD
+http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/508.m3u8
